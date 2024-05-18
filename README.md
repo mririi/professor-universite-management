@@ -1,1 +1,1 @@
-## Students universities management
+## Professors universities management
